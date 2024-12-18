@@ -1,3 +1,7 @@
+<h1 align="center">Hi, I'm Ari Saputra</h1>
+<h4 align="center">A passionate frontend developer from Indonesia and study at Subang University</h4>
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450" alt="ecem gokdogan" />
 </div>
@@ -5,7 +9,6 @@
 <br>
 
 - :woman_technologist: I'm interested in building creative projects using CSS and JS libraries.
-- :iphone: I worked on Augmented Reality (AR) in my master's thesis.
 - :envelope: You can contact me at ariissaputraa19@gmail.com
 
 <br>

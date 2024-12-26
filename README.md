@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ari Saputra</h1>
-<h4 align="center">A passionate frontend developer from Indonesia and study at Subang University</h4>
+<h4 align="center">A passionate frontend developer</h4>
 <p align="center">
     <a href="https://shields.io/community#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a>
